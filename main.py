@@ -33,4 +33,4 @@ elif operation == '/':
         result = "Делить на 0 нельзя!"
 else:
     result = "Неизвестная операция"
-print("результат: ",result)
+print("результат: ", result)
